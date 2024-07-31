@@ -1,5 +1,7 @@
+# Copilot chat
+# 
 # 원본 csv 파일에서 추출된 컬럼을 데이터 매핑하여 새로운 csv 파일을 만드는 파이썬 코드를 만드는데 아래 조건을 만족해야해.
-
+# 
 # - 원본 CSV : extracted-crawling-petitions-assembly-list.csv
 # - 타겟 CSV : petitions-assembly-dataset.csv
 # - 추출 컬럼 : rowNum,petitRealmNm, petitSj, petitCn, agreCo, agreBeginDe, agreEndDe
