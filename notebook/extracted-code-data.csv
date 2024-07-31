@@ -1,0 +1,56 @@
+Group name,Code,Name
+jdgmnStepCode,JS0001,위원회 회부
+jdgmnStepCode,JS0003,소위원회 심사
+jdgmnStepCode,JS0004,전체위원회 의결
+jdgmnStepCode,JS0005,본회의 의결
+jdgmnStepCode,,
+jrsdCmitCode,9700005,국회운영위원회
+jrsdCmitCode,9700006,법제사법위원회
+jrsdCmitCode,9700008,정무위원회
+jrsdCmitCode,9700019,국방위원회
+jrsdCmitCode,9700038,환경노동위원회
+jrsdCmitCode,9700047,정보위원회
+jrsdCmitCode,9700049,예산결산특별위원회
+jrsdCmitCode,9700300,기획재정위원회
+jrsdCmitCode,9700341,보건복지위원회
+jrsdCmitCode,9700342,여성가족위원회
+jrsdCmitCode,9700407,국토교통위원회
+jrsdCmitCode,9700408,농림축산식품해양수산위원회
+jrsdCmitCode,9700409,외교통일위원회
+jrsdCmitCode,9700479,과학기술정보방송통신위원회
+jrsdCmitCode,9700480,행정안전위원회
+jrsdCmitCode,9700481,산업통상자원중소벤처기업위원회
+jrsdCmitCode,9700512,교육위원회
+jrsdCmitCode,9700513,문화체육관광위원회
+jrsdCmitCode,9700544,언론·미디어 제도개선 특별위원회
+jrsdCmitCode,9700546,정치개혁 특별위원회
+petitRealmCode,ADMINIST,행정/지방자치
+petitRealmCode,CLTUR,문화/체육/관광/언론
+petitRealmCode,CNSMR,소비자/공정거래
+petitRealmCode,DPLM,외교/통일/국방/안보
+petitRealmCode,EDC,교육
+petitRealmCode,ETC,기타
+petitRealmCode,FAMILY,저출산/고령화/아동/청소년/가족
+petitRealmCode,FARMNG,농업/임업/수산업/축산업
+petitRealmCode,FNANC,재정/세제/금융/예산
+petitRealmCode,HMCCS,보건의료
+petitRealmCode,HNRT,인권/성평등/노동
+petitRealmCode,INDUST,산업/통상
+petitRealmCode,INVST,수사/법무/사법제도
+petitRealmCode,MSFRTN,재난/안전/환경
+petitRealmCode,POLITC,정치/선거/국회운영
+petitRealmCode,SCNCE,과학기술/정보통신
+petitRealmCode,TRIT,국토/해양/교통
+petitRealmCode,WLFARE,복지/보훈
+petitRealmDetailCode,,
+petitUnacptCode,,
+resultCode,AGRE_END_DSUSE,동의만료폐기
+resultCode,ALTRV_DSUSE,대안반영폐기
+resultCode,CMIT_DSUSE,본회의불부의
+resultCode,CMIT_JDGING,위원회심사
+resultCode,CMIT_RCEPT,위원회접수
+resultCode,EXP_DSUSE,임기만료폐기
+resultCode,PETIT_INADQT,동의만료폐기
+resultCode,WTHDRAW,위원회접수후철회
+sttusCode,CMIT_FRWRD,
+sttusCode,PETIT_END,
