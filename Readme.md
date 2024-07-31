@@ -37,6 +37,12 @@ python extract-code-data.py
 python create-petitions-assembly-dataset.py
 
 # Output filename : petitions-assembly-dataset.csv
+
+# Clean the dataset
+python clean-petitions-assembly-dataset.py
+
+# Output filename : petitions-assembly-dataset-clean.csv
+
 ```
 
 ## Data layout
