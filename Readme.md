@@ -6,7 +6,9 @@
 
 ## Getting Started
 
-로컬 환경으로만 구성되어 있으며, .py를 통해 파이썬 코드 실행 또는 notebook 폴더에 notebook 으로 실행할 수 있습니다.
+로컬 환경으로만 구성되어 있으며,
+
+.py를 통해 파이썬 코드 실행 또는 notebook 폴더에서 .ipynb 파일을 실행할 수 있습니다.
 
 ### Installing
 
