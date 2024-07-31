@@ -22,24 +22,24 @@ pip install requests pandas
 
 ```
 # Create list csv file.
-python crawling-petitions-assembly-list.py
+python 01-crawling-petitions-assembly-list.py
 
 # Output filename : extracted-crawling-petitions-assembly-list.csv
 
 
 # Create code csv file.
-python extract-code-data.py 
+python 02-extract-code-data.py 
 
 # Output filename : extracted-code-data.csv
 
 
 # Create dataset for project
-python create-petitions-assembly-dataset.py
+python 03-create-petitions-assembly-dataset.py
 
 # Output filename : petitions-assembly-dataset.csv
 
 # Clean the dataset
-python clean-petitions-assembly-dataset.py
+python 04-clean-petitions-assembly-dataset.py
 
 # Output filename : petitions-assembly-dataset-clean.csv
 
