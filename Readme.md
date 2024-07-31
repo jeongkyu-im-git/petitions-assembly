@@ -78,5 +78,5 @@ pip install p2j
 # covnert command
 p2j {python file}
 ```
-- 장점 : 간편하데 Notebook 파일을 생성
-- 단점 : 보기 좋게 하기 위해 Markdown 등 추가 작업이 필요합니다.
+- 장점 : 간편하게 Notebook 파일을 생성
+- 단점 : 보기 좋게 하기 위해서는 Markdown 등 추가 작업이 필요함.
