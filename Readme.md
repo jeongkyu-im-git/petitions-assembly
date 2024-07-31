@@ -51,7 +51,24 @@ python create-petitions-assembly-dataset.py
 |청원 시작일|agreBeginDe|start|Timestamp|%Y-%m-%d||
 |청원 마감일|agreEndDe|end|Timestamp|%Y-%m-%d||
 
-````
+```
 # dataset for project
 convert_dataset = ['rowNum','category', 'title', 'content', 'count', 'start', 'end']
-````
+```
+
+## Etc
+
+### Jupyter Notebook 변환 라이브러리
+
+Python 파일(.py)을 Jupyter Notebook 파일(.ipynb)로 변환합니다.
+
+기존 코드 내에서 주석을 기준으로 코드 실행 영역이 만들어 집니다.
+```
+# install
+pip install p2j
+
+# covnert command
+p2j {python file}
+```
+- 장점 : 간편하데 Notebook 파일을 생성
+- 단점 : 보기 좋게 하기 위해 Markdown 등 추가 작업이 필요합니다.
