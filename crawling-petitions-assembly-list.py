@@ -12,6 +12,7 @@
 # 
 # 상세 조회 Query 
 # https://petitions.assembly.go.kr/api/petits/14CBAF8CE5733410E064B49691C1987F?petitId=14CBAF8CE5733410E064B49691C1987F&sttusCode= 
+#
 # pip install requests pandas
 # 
 
